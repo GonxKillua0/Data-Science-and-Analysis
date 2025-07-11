@@ -1,2 +1,2 @@
-# GonxKillua0-Data-Science-and-Analysis
+# Data-Science-and-Analysis
 Python libraries
